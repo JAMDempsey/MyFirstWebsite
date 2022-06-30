@@ -1,0 +1,43 @@
+body {
+    background-color: gray;
+    
+}
+
+h1 {
+    text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: coral; 
+}
+
+img {
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: coral;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+        background-color: coral;
+        text-align: center;
+        border-width: 1px;
+        border-style: solid;
+        border-color: teal;
+        
+}
+
+
+
+#footer {
+    background-color: coral;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: teal;
+    
+}
